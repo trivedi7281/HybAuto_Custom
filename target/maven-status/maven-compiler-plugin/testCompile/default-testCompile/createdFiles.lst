@@ -1,0 +1,9 @@
+com\huskyAuto\utilities\XLUtils.class
+com\huskyAuto\utilities\Reporting.class
+com\huskyAuto\pageObjects\NewCustomer.class
+com\huskyAuto\testCases\BaseClass.class
+com\huskyAuto\testCases\TC_LoginTest_001.class
+com\huskyAuto\testCases\TC_CreateNewCustomer_003.class
+com\huskyAuto\utilities\ConfigReader.class
+com\huskyAuto\testCases\TC_LoginTestDDT_002.class
+com\huskyAuto\pageObjects\LoginPage.class
